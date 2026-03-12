@@ -5,6 +5,7 @@
  */
 
 // QSomos es = arrow funcion ES6
+
 const QSomos = () => {
   //bloque de la funcion
   return (
