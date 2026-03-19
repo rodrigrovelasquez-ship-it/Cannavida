@@ -10,7 +10,7 @@ const QSomos = () => {
   //bloque de la funcion
   return (
     <section id="qsomos" className="min-h-screen flex items-center justify-center scroll-mt-16">
-        <h1>Cannavida </h1>
+        <h1>Cannavida asdasdasdasdas </h1>
     </section>
   )
 }
